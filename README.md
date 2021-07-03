@@ -1,0 +1,2 @@
+# aplifyApp
+Study of amplify 
